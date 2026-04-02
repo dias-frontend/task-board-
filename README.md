@@ -36,7 +36,7 @@ project/
 1. Скачай проект или склонируй репозиторий:
 
 
-git clone https://github.com/your-username/task-board.git
+git clone https://github.com/dias-frontend/task-board.git 
 
 
 2. Открой файл:
